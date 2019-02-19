@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    
+
     class Number {
         public boolean isTriangular (long n) {
             long calc_num = 8*n+1;
